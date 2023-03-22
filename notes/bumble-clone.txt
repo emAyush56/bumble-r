@@ -1,0 +1,38 @@
+bumble is not available on mobile
+
+screens/routes
+[when signed up]
+-/app
+-/app/edit-profile [profile and edit profile page is same]
+-/app/settings
+-*bumble-premium or bumble-boost
+
+[other routes]
+-index
+-signup
+-signin
+
+[interactions / components]
+-going-back [navigation]
+-filters
+
+-FEED [the core usp of the project]
+--shownprofile
+----scroll>about>photos>location
+--like>nextprofile
+--pass>nextprofile
+--superswipe
+--gallery view of photos
+
+-micro animations [framer?]
+-settings>mode
+
+[arrow-key actions]
+
+[what will happen when there will be profile matches]
+[We accept JPGs and PNGs of at least 500x500px.]
+
+[questions]
+your name?
+urgency/timeline?
+my fees?
