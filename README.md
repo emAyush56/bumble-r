@@ -1,5 +1,5 @@
 # bumble-r
-A clone of bumble
+A clone of bumble - WebApp Only
 
 # Some highlights
 - On loading use up and down arrow keys to navigate through a users profile.
