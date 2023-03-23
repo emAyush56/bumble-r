@@ -73,7 +73,7 @@ function FeedPrompts() {
           <div className="feed__prompt_about-content flex w-full flex-col items-center justify-center space-y-4 bg-y-primary-light p-8">
             <div className="feed__prompt_about-content-title">
               <span className="text-[14px] font-semibold tracking-wide text-gray-700">
-                About M
+                About Megha
               </span>
             </div>
 
