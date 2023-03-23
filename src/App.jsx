@@ -12,7 +12,7 @@ function App() {
   return (
     <div className="flex">
       <Mobile />
-      <aside className="w-full min-w-[260px] max-w-[400px] border-r border-gray-300 sm:block">
+      <aside className="hidden w-full min-w-[260px] max-w-[400px] border-r border-gray-300 sm:block">
         <Routes>
           <Route path="/" element={<Sidebar />} />
           <Route path="/edit-profile" element={<SidebarProfile />} />
