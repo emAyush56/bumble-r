@@ -2,7 +2,7 @@ import { useEffect, useRef, useState } from "react";
 import BumbleLogo from "../assets/bumble-logo-2.png";
 import UserPromptPhoto from "../assets/prompt/prompt_1.jpg";
 import UserPromptPhoto2 from "../assets/prompt/prompt_3.jpg";
-import { StarIcon, XMarkIcon, CheckIcon } from "@heroicons/react/24/solid";
+import { StarIcon } from "@heroicons/react/24/solid";
 
 function Index() {
   const [dailyLimitCrossed, setDailylimitCrossed] = useState(false);
